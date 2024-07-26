@@ -1,6 +1,6 @@
-usage: vt-ip-url-analysis.py [-h] [-s SINGLE_ENTRY] [-i IP_LIST] [-u URL_LIST] [-V]
+usage: vt-ip-url-analysis.py [-h] [-s SINGLE_ENTRY] [-i IP_LIST] [-V]
 
-Python Automated VT API v3 IP address and URL analysis 
+Python Automated VT API IP address analysis 
 
 optional arguments:
   -h, --help                show this help message and exit
@@ -12,8 +12,11 @@ optional arguments:
   -V, --version             show program version
 
 --------------------------------------------------
-ex ) python .\VT_ip_analysis.py -i .\target-ips.txt
 
 1) target-ips.txt를 수정
-2) .env 파일의 API Key를 대입
-3) 
+
+2) .env 파일 추가 및  API Key를 추가
+ex) API_KEY=
+
+3) main.py 실행
+ex ) python main.py -i .\target-ips.txt
