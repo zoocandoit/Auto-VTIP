@@ -3,8 +3,7 @@
 Filtering IP using VirusTotal API
 
 
------------------
-usage: vt-ip-url-analysis.py [-h] [-s SINGLE_ENTRY] [-i IP_LIST] [-V]
+usage: main.py [-h] [-s SINGLE_ENTRY] [-i IP_LIST] [-V]
 
 Python Automated VT API IP address analysis 
 
