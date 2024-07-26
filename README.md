@@ -14,7 +14,7 @@ main.py [-h] [-s SINGLE_ENTRY] [-i IP_LIST] [-V]
   Show this help message and exit.
   
 - `-s SINGLE_ENTRY, --single-entry SINGLE_ENTRY`  
-  IP or URL for analysis.
+  IP for analysis.
   
 - `-i IP_LIST, --ip-list IP_LIST`  
   Bulk IP address analysis.
