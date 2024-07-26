@@ -1,3 +1,3 @@
 # AUTO_VTIP
 
-Filtering Domain IP using VirusTotal API
+Filtering IP using VirusTotal API
