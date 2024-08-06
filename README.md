@@ -7,7 +7,7 @@ AUTO_VTIP is a Python tool for automated IP address analysis using the VirusTota
 // 
 실무에서 모든 IP리스트를 검증하기에는 공격벡터가 너무 많고 표면적이 넓었습니다.
 
-F/W에 IP 차단리스트를 추가하기 위해 간단하게 제작하였습니다.
+F/W, IPS에 차단리스트를 추가하기 위해 간단하게 제작하였습니다.
 
 
 ## Usage
