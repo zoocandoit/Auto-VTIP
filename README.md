@@ -31,7 +31,7 @@ main.py [-h] [-s SINGLE_ENTRY] [-i IP_LIST] [-V]
 ### Bulk IP Analysis
 ` ```sh
 python main.py -i <path_to_ip_list>
-''' ` 
+``` `  
 
 ## Error Code
 | HTTP Code | Error Code                    | Description                                                                                                                                                 |
