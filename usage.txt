@@ -1,19 +1,5 @@
-usage: vt-ip-url-analysis.py [-h] [-s SINGLE_ENTRY] [-i IP_LIST] [-V]
-
-Python Automated VT API IP address analysis 
-
-optional arguments:
-  -h, --help                show this help message and exit
-  -s SINGLE_ENTRY, --single-entry SINGLE_ENTRY
-                            ip or url for analysis
-  -i IP_LIST, --ip-list IP_LIST
-                            bulk ip address analysis
-
-  -V, --version             show program version
-
---------------------------------------------------
-
 1) target-ips.txt를 수정
+** 200개씩 나눠서 단계별로 진행하시길 권고
 
 2) .env 파일 추가 및  API Key를 추가
 ex) API_KEY=
