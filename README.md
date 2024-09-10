@@ -29,9 +29,9 @@ main.py [-h] [-s SINGLE_ENTRY] [-i IP_LIST] [-V]
 ## Examples
 
 ### Bulk IP Analysis
-` ```sh
+```sh
 python main.py -i <path_to_ip_list>
-``` `  
+```  
 
 ## Error Code
 | HTTP Code | Error Code                    | Description                                                                                                                                                 |
