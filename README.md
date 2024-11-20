@@ -1,6 +1,6 @@
 # AUTO_VTIP
 
-**AUTO_using VirusTotal API IP Filtering **
+**AUTO_using VirusTotal api malicious IP filtering **
 
 AUTO_VTIP is a Python tool for automated IP address analysis using the VirusTotal API. This tool allows you to analyze single IP addresses or bulk IP addresses efficiently.
 
