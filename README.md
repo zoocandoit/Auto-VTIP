@@ -4,10 +4,6 @@
 
 AUTO_VTIP is a Python tool for automated IP address analysis using the VirusTotal API. This tool allows you to analyze single IP addresses or bulk IP addresses efficiently.
 
-> 실무에서 모든 IP리스트를 검증하기에는 공격벡터가 너무 많고 표면적이 넓었습니다.
-
-> F/W, IPS에 IP 차단리스트를 작성하기 위해 간단하게 제작된 도구입니다.
-
 ## Usage
 main.py [-h] [-s SINGLE_ENTRY] [-i IP_LIST] [-V]
 
